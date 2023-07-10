@@ -1,0 +1,42 @@
+Jam Day11 and Day12
+====================
+1. What is Jira
+2. Which organization developed jira
+3. Can i use Jira for adding test cases 
+4. Can i use jira recording the defects and assign it to the respective developer
+5. What are the three options under jira
+6. what is a productbacklog and under which option can i create a product backlog
+7. What is a Sprint . and how to create a sprint in jira
+8. What is a Epic 
+9. What is an issue
+10.Difference between an issue and a story
+11. What is an brunout chart and why
+12. what is a Service
+13. Which protocol does a service use
+14. what is WSDL and why
+15. what is the extension of a service
+16. who generates a wsdl file
+17. what is a soap request what does it have in it
+18. what  is a soap response what does it have in it
+19. how to access a service in other applications
+20. Where does services run
+21. What is ASP.NET and why
+22. how to add a webform into asp.net web applications
+23. What is RAD, What is DnD, What is WYSIWYG
+24. What is an event driven programming
+25. what are the rwo files generated when you design a web form
+26. What are the two views of a webform
+27. extension of design view
+28. extension of code window
+29. which class is inherited into your web form or page
+30. syntax of an eventhandler
+31. full form of asp
+32. which language did we use in asp.net
+33. what happens when you click a button
+34. what is post back
+35. what is Response.Redirect("Default.aspx") do
+36. how to add a web service to your web page give steps
+37. what happens when you drag and drop a control
+38. what is a property window , how to get a property window
+39. What is ID and what is Text, what is the difference
+40. if your design file and code file are different, how the code executes when i click a button
